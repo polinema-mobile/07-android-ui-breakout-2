@@ -79,4 +79,17 @@
         <item>Surabaya</item>
         <item>Solo</item>
     </string-array>
+    <string-array name="provinsiStudi">
+        <item>Jawa Timur</item>
+        <item>Lampung</item>
+        <item>Baten</item>
+        <item>Jawa barat</item>
+        <item>Sumatra Barat</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Bali</item>
+        <item>Jawa Tenga</item>
+
+
+
+    </string-array>
 </resources>
